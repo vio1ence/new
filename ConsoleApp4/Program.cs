@@ -9,6 +9,7 @@ namespace ConsoleApp4
             Console.WriteLine("Hello World!");
             Console.WriteLine("hi");
             Console.WriteLine("EZ");
+            Console.WriteLine("osb");
         }
     }
 }
